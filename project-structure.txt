@@ -1,0 +1,16 @@
+calendar-app/
+├── client/                 # React Frontend
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── hooks/
+│   │   ├── context/
+│   │   └── styles/
+├── server/                 # Node.js Backend
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── routes/
+│   │   ├── middleware/
+│   │   └── utils/
+└── supabase/              # Database Schemas
+    └── migrations/
